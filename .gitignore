@@ -17,3 +17,6 @@ uploads/*
 *.sqlite
 .vscode/
 .idea/
+
+.env
+service-account.json
